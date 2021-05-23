@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<select name="choice_list" id="choice_list"  >
+  </select>
+<script  charset= utf-8>
+
+   var period = document.querySelector('#choice_list');
+    // 1 способ (через создание массива и наполнением его значений выбранных опций)
+    var arr = [];
+    for (var i = 0, length = 3; i < length; i++) {
+       period.options[i].value=i;
+    }
+
+
+ var choice_list = document.querySelector("#choice_list");
+
+ for (var index1 = 0, length = choice_list.options.length; index1 < length; index1++) {
+     if (choice_list.options[index1].value=="3") {
+         choice_list.options[index1].selected="selected";
+         choice_list.options[index1].value;
+     }
+ }
+</script>
+</body>
+</html>
