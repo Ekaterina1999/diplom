@@ -1,7 +1,8 @@
-﻿<head> <title>&#1043;&#1054;&#1057;&#1059;&#1044;&#1040;&#1056;&#1057;&#1058;&#1042;&#1045;&#1053;&#1053;&#1040;&#1071; &#1048;&#1053;&#1057;&#1055;&#1045;&#1050;&#1062;&#1048;&#1071; &#1047;&#1040;&#1041;&#1040;&#1049;&#1050;&#1040;&#1051;&#1068;&#1057;&#1050;&#1054;&#1043;&#1054; &#1050;&#1056;&#1040;&#1071;</title>
+﻿
+<head> <title>&#1043;&#1054;&#1057;&#1059;&#1044;&#1040;&#1056;&#1057;&#1058;&#1042;&#1045;&#1053;&#1053;&#1040;&#1071; &#1048;&#1053;&#1057;&#1055;&#1045;&#1050;&#1062;&#1048;&#1071; &#1047;&#1040;&#1041;&#1040;&#1049;&#1050;&#1040;&#1051;&#1068;&#1057;&#1050;&#1054;&#1043;&#1054; &#1050;&#1056;&#1040;&#1071;</title>
 
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8, windows-1251 " />
-				
+
                 <meta name="author" content="Ian Main" />
                 <meta name="Copyright" content="Creative Commons - http://creativecommons.org/licenses/by/2.0/" />
 					<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -122,6 +123,7 @@ white-space: normal;
 </head>
 
 <body>
+
 <? include_once("forms\link\link.php");?>
 <table width="1200" border="0" align="center" cellpadding="0" cellspacing="0" id="main_table">
 <tr>
@@ -206,3 +208,5 @@ include_once("forms/menu.php"); }?> </td>
 </table>
 </body>
 </html>
+
+
